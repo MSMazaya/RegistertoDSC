@@ -10,4 +10,4 @@
   widget and im not used to organize widget on files. But right after jumps into a mobile app development,
   i'm super amazed by how powerfull it is. But still haha, i have much of my time struggling on organizing
   widgets. I really need a help and mentor on doing this, i need someone to teaches me about using firebase
-  as my backend and etc. Super excited to be a part of DSC!. A</p>
+  as my backend and etc. Super excited to be a part of DSC!.</p>
