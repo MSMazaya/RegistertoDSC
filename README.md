@@ -1,6 +1,6 @@
 # RegistertoDSC
 <h2>My personal opinion about flutter</h2>
-<blockquote><p>Hello, i am currently using flutter for about 2 weeks and i feel its a very powerfull tools to
+<blockquote><p>Hello, i am currently using flutter for about 3 weeks and i feel its a very powerfull tools to
   create a great UI for <b>mobile apps</b>. but i need to emphasize the toughness to use flutter to
   do web app development. My first flutter based project is to create a simple linktree web (fun fact: 
   i recently switches computer, and the only project i dont back up is this one haha, since the code looks 
